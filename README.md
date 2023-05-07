@@ -18,13 +18,8 @@
 
 #### Methodologies
 
-![Design Patterns](https://img.shields.io/badge/-%20Design%20Patterns-gray) ![Clean Code](https://img.shields.io/badge/-Clean%20Code-white) ![OOP](https://img.shields.io/badge/-OOP-gray) ![MVC](https://img.shields.io/badge/-MVC-gray) ![SOLID](https://img.shields.io/badge/-SOLID-white)
+![Design Patterns](https://img.shields.io/badge/-%20Design%20Patterns-gray) ![Clean Code](https://img.shields.io/badge/-Clean%20Code-white) ![OOP](https://img.shields.io/badge/-OOP-gray) ![MVC](https://img.shields.io/badge/-MVC-gray) ![SOLID](https://img.shields.io/badge/-SOLID-white) ![UML](https://img.shields.io/badge/-UML-gray) ![Agile](https://img.shields.io/badge/-Agile-gray) ![DevOps](https://img.shields.io/badge/-DevOps-white) ![Jira](https://img.shields.io/badge/-Jira-1A74ED)
 
-- UML
-- Agile
-- SCRUM
-- Jira
-- DevOps
 
 #### Hobby projects
 

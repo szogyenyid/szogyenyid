@@ -23,9 +23,4 @@
 
 #### Hobby projects
 
-- Go
-- Echo
-- RabbitMQ
-- React
-- Terraform
-- nginx
+![Go](https://img.shields.io/badge/-go-29BEB0) ![echo](https://img.shields.io/badge/-echo-4ae1ff) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-ff6600) ![React](https://img.shields.io/badge/-React-61DBFB) ![Terraform](https://img.shields.io/badge/-Terraform-844FBA) ![nginx](https://img.shields.io/badge/-nginx-009037)

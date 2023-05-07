@@ -2,4 +2,55 @@
 
 #### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szogyenyid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- PHP
+- SQL
+- HTML
+- CSS
+- JS
+- Bash
+- R
+- C
+
+#### Tools & frameworks
+
+- Composer
+- Laravel
+- Pest
+- Mendix (Certified)
+
+#### Databases
+
+- MySQL
+- MariaDB
+- MongoDB
+- PostgreSQL
+
+#### Infrastructure
+
+- git
+- Linux
+- Apache HTTP server
+- Docker
+- BitBucket Pipelines
+
+#### Methodologies
+
+- Design patterns
+- Clean Code
+- OOP
+- MVC
+- SOLID
+- UML
+- Agile
+- SCRUM
+- Jira
+- DevOps
+
+#### Hobby projects
+
+- Go
+- Echo
+- RabbitMQ
+- React
+- Terraform
+- nginx

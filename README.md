@@ -10,7 +10,7 @@
 
 #### Databases
 
-- MySQL
+![MySQL](https://img.shields.io/badge/-%20MySQL-00758F) ![MariaDB](https://img.shields.io/badge/-%20MariaDB-003545)
 - MariaDB
 - MongoDB
 - PostgreSQL

@@ -10,10 +10,7 @@
 
 #### Databases
 
-![MySQL](https://img.shields.io/badge/-%20MySQL-00758F) ![MariaDB](https://img.shields.io/badge/-%20MariaDB-003545)
-- MariaDB
-- MongoDB
-- PostgreSQL
+![MySQL](https://img.shields.io/badge/-%20MySQL-00758F) ![MariaDB](https://img.shields.io/badge/-%20MariaDB-003545) ![MongoDB](https://img.shields.io/badge/-%20MongoDB-4DB33D) ![PostgreSQL](https://img.shields.io/badge/-%20PostgreSQL-0064a5)
 
 #### Infrastructure
 

@@ -14,11 +14,7 @@
 
 #### Infrastructure
 
-- git
-- Linux
-- Apache HTTP server
-- Docker
-- BitBucket Pipelines
+![git](https://img.shields.io/badge/-%20git-F1502F) ![Linux](https://img.shields.io/badge/-%20Linux-333333) ![Apache](https://img.shields.io/badge/-%20Apache-CC2336) ![Docker](https://img.shields.io/badge/-%20Docker-0db7ed) ![BitBucket Pipelines](https://img.shields.io/badge/-%20BitBucket%20Pipelines-1A74ED)
 
 #### Methodologies
 

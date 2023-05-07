@@ -6,10 +6,7 @@
 
 #### Tools & frameworks
 
-- Composer
-- Laravel
-- Pest
-- Mendix (Certified)
+![Composer](https://img.shields.io/badge/-%20Composer-8993be) ![Laravel](https://img.shields.io/badge/-%20Laravel-fb503b) ![Pest](https://img.shields.io/badge/-%20Pest-8993be) ![Mendix](https://img.shields.io/badge/-%20Mendix-0595db)
 
 #### Databases
 

@@ -2,7 +2,7 @@
 
 #### Languages
 
-!(PHP)[https://img.shields.io/badge/-%20PHP-8993be]
+![PHP](https://img.shields.io/badge/-%20PHP-8993be)
 - SQL
 - HTML
 - CSS

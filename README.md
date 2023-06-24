@@ -1,26 +1,18 @@
-### Daniel Szogyenyi
+### Hi there 👋
 
-#### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szogyenyid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![PHP](https://img.shields.io/badge/-%20PHP-8993be) ![SQL](https://img.shields.io/badge/-%20SQL-lightgrey) ![HTML5](https://img.shields.io/badge/-%20HTML5-f06529) ![CSS3](https://img.shields.io/badge/-%20CSS-2965f1) ![JavaScript](https://img.shields.io/badge/-%20JavaScript-f0db4f) ![bash](https://img.shields.io/badge/-%20bash-000000) ![R](https://img.shields.io/badge/-%20R-276DC2) ![C](https://img.shields.io/badge/-%20C-3949AB)
+<!--
+**szogyenyid/szogyenyid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-#### Tools & frameworks
+Here are some ideas to get you started:
 
-![Composer](https://img.shields.io/badge/-%20Composer-8993be) ![Laravel](https://img.shields.io/badge/-%20Laravel-fb503b) ![Pest](https://img.shields.io/badge/-%20Pest-8993be) ![Mendix](https://img.shields.io/badge/-%20Mendix-0595db)
-
-#### Databases
-
-![MySQL](https://img.shields.io/badge/-%20MySQL-00758F) ![MariaDB](https://img.shields.io/badge/-%20MariaDB-003545) ![MongoDB](https://img.shields.io/badge/-%20MongoDB-4DB33D) ![PostgreSQL](https://img.shields.io/badge/-%20PostgreSQL-0064a5)
-
-#### Infrastructure
-
-![git](https://img.shields.io/badge/-%20git-F1502F) ![Linux](https://img.shields.io/badge/-%20Linux-333333) ![Apache](https://img.shields.io/badge/-%20Apache-CC2336) ![Docker](https://img.shields.io/badge/-%20Docker-0db7ed) ![BitBucket Pipelines](https://img.shields.io/badge/-%20BitBucket%20Pipelines-1A74ED)
-
-#### Methodologies
-
-![Design Patterns](https://img.shields.io/badge/-%20Design%20Patterns-gray) ![Clean Code](https://img.shields.io/badge/-Clean%20Code-white) ![OOP](https://img.shields.io/badge/-OOP-gray) ![MVC](https://img.shields.io/badge/-MVC-gray) ![SOLID](https://img.shields.io/badge/-SOLID-white) ![UML](https://img.shields.io/badge/-UML-gray) ![Agile](https://img.shields.io/badge/-Agile-gray) ![DevOps](https://img.shields.io/badge/-DevOps-white) ![Jira](https://img.shields.io/badge/-Jira-1A74ED)
-
-
-#### Hobby projects
-
-![Go](https://img.shields.io/badge/-go-29BEB0) ![echo](https://img.shields.io/badge/-echo-4ae1ff) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-ff6600) ![React](https://img.shields.io/badge/-React-61DBFB) ![Terraform](https://img.shields.io/badge/-Terraform-844FBA) ![nginx](https://img.shields.io/badge/-nginx-009037)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
